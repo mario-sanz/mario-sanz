@@ -21,3 +21,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mario-sanz&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mario-sanz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mario-sanz&show_icons=true&theme=dracula&locale=en" alt="mario-sanz" /></p>
+
+<!-- links -->
+[issues page]: https://github.com/mario-sanz/mario-sanz/issues "mario-sanz/issues"
