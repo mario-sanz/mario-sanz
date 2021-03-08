@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me anything on my **[issues page]**
 
 - 📫 How to reach me **sanzguerreromario@gmail.com**
 
