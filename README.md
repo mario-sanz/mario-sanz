@@ -1,3 +1,4 @@
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <h1 align="center">Hi 👋, I'm Mario Sanz</h1>
 <h3 align="center">A Computer Science Engineering student at UCM</h3>
 
