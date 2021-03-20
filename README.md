@@ -30,7 +30,7 @@
 </p>
 
 <h1 align="center"></h1>
-<img align="center" alt="Mario's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mario-sanz&layout=compact&theme=monokai" />
+<img align="right" alt="Mario's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mario-sanz&layout=compact&theme=monokai" />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mario-sanz&label=Profile%20views&color=0e75b6&style=flat" alt="mario-sanz" /> </p>
 
 <!--
