@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mario Sanz</h1>
 <h3 align="center">A Computer Science Engineering student at UCM</h3>
----
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mario-sanz&label=Profile%20views&color=0e75b6&style=flat" alt="mario-sanz" /> </p>
 
 - 🌱 I’m currently learning **Automation with Python**
