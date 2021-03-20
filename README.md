@@ -34,7 +34,7 @@
 <img align="right" alt="Mario's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mario-sanz&show_icons=true&theme=monokai" />
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mario-sanz&label=Profile%20views&color=0e75b6&style=flat" alt="mario-sanz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mario-sanz&label=Profile%20views&color=0e75b6&style=flat" alt="mario-sanz" /> </p>
 
 
 
