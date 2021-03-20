@@ -30,15 +30,11 @@
 </p>
 
 <h1 align="center"></h1>
-<img align="center" alt="Mario's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mario-sanz&layout=compact&theme=monokai" />
-<img align="center" alt="Mario's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mario-sanz&show_icons=true&theme=dracula&theme=monokai" />
+<img align="left" alt="Mario's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mario-sanz&layout=compact&theme=monokai" />
+<img align="center" alt="Mario's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mario-sanz&show_icons=true&theme=monokai" />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mario-sanz&label=Profile%20views&color=0e75b6&style=flat" alt="mario-sanz" /> </p>
 
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mario-sanz&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mario-sanz" /></p>
 
-<!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mario-sanz&show_icons=true&theme=dracula&locale=en" alt="mario-sanz" /></p>
 
 <!-- links -->
 [issues page]: https://github.com/mario-sanz/mario-sanz/issues "mario-sanz/issues"
