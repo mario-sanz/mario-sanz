@@ -33,7 +33,6 @@
 <a href="https://github.com/mario-sanz/github-readme-stats">
   <img align="center" src="https://github-readme-stats-mario-sanz.vercel.app/api/top-langs/?username=mario-sanz&layout=compact&theme=tokyonight&count_private=true" />
 </a>
-<a></a>
 <a href="https://github.com/mario-sanz/github-readme-stats">
   <img align="center" src="https://github-readme-stats-mario-sanz.vercel.app/api?username=mario-sanz&show_icons=true&theme=tokyonight&count_private=true&hide=prs,contribs" />
 </a>
