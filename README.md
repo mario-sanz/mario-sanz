@@ -37,6 +37,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mario-sanz&label=Profile%20views&color=0e75b6&style=flat" alt="mario-sanz" /> </p>
 -->
 
-
 <!-- links -->
 [issues page]: https://github.com/mario-sanz/mario-sanz/issues "mario-sanz/issues"
