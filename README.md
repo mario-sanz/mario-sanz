@@ -1,12 +1,12 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+<p align="center"><img src="https://github.com/mario-sanz/mario-sanz/blob/main/gifs/hellogithub.gif"/></p>
 <h1 align="center">Hi 👋, I'm Mario Sanz</h1>
 <h3 align="center">A Computer Science Engineering student at UCM</h3>
+<br />
 
+<img align="right" height="250" width="375" alt="" src="https://github.com/mario-sanz/mario-sanz/blob/main/gifs/coder.gif" />
 
 - 🌱 I’m currently learning **Automation with Python**
-
 - 💬 Ask me anything on my **[issues page]**
-
 - 📫 How to reach me: **sanzguerreromario@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,17 +33,38 @@
   <a href="https://linkedin.com/in/mariosanzguerrero" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="mariosanzguerrero" height="30" width="40" /></a>
 </p>
 
-<h1 align="center"></h1>
-<a href="https://github.com/mario-sanz/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-mario-sanz.vercel.app/api/top-langs/?username=mario-sanz&layout=compact&theme=tokyonight&count_private=true" />
-</a>
-<a href="https://github.com/mario-sanz/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-mario-sanz.vercel.app/api?username=mario-sanz&show_icons=true&theme=tokyonight&count_private=true&hide=prs,contribs" />
-</a>
+<h3 align="left">Projects and Dev Stuff:</h3>
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
 
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mario-sanz&label=Profile%20views&color=0e75b6&style=flat" alt="mario-sanz" /> </p>
--->
+  <br />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mario-sanz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=vue-dark&hide=prs,contribs" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mario-sanz&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=vue-dark&count_private=true"/>
+</details>
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=mario-sanz&hide_border=true&theme=vue-dark" />
+</details>
+
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	  <li><b>OS:</b> Kubuntu 20.04</li>
+	    <li><b>Laptop: </b> HP Laptop (Ryzen 5)</li>
+  	  <li><b>Browser: </b> Firefox Web Browser</li>
+	    <li><b>Terminal: </b> Konsole (default in KDE)</li>
+	    <li><b>Code Editor:</b> VS Code, Sublime Text, IntelliJ.</li>
+	    <br />
+	</ul>	
+</details>
+
+<br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mario-sanz&label=Profile%20views&color=00BB6D&style=flat" alt="mario-sanz" /> </p>
 
 <!-- links -->
 [issues page]: https://github.com/mario-sanz/mario-sanz/issues "mario-sanz/issues"
+
