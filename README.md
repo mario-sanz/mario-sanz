@@ -39,7 +39,7 @@
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=mario-sanz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=vue-dark&hide=contribs" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=mario-sanz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=vue-dark&hide=none" />
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mario-sanz&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=vue-dark&count_private=true"/>
 </details>
 
