@@ -9,7 +9,7 @@
 <table align="right">
 <tr>
 	<td align="center" style="padding=0;width=50%;">
-		<img height="140em" src="https://github-readme-stats.vercel.app/api?username=mario-sanz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide=none&title_color=64B2FFFF&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000" />
+		<img height="140em" src="https://github-readme-stats.vercel.app/api?username=mario-sanz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide=none&theme=algolia" />
 	</td>
 </tr>
 <tr>
