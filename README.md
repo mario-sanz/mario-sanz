@@ -4,7 +4,25 @@
 <br />
 
 <!--img align="right" height="250" width="375" alt="" src="https://github.com/mario-sanz/mario-sanz/blob/main/gifs/coder.gif" /-->
-<img style="width: 40%; height: auto; " align="right" alt="" src="https://github.com/mario-sanz/mario-sanz/blob/main/gifs/coding.gif" />
+<!--img style="width: 40%; height: auto; " align="right" alt="" src="https://github.com/mario-sanz/mario-sanz/blob/main/gifs/coding.gif" /-->
+
+<table align="right">
+<tr>
+	<td align="center" style="padding=0;width=50%;">
+		<img height="140em" src="https://github-readme-stats.vercel.app/api?username=mario-sanz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide=none&title_color=64B2FFFF&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000" />
+	</td>
+</tr>
+<tr>
+	<td align="center" style="padding=0;width=50%;">
+		<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mario-sanz&show_icons=true&layout=compact&langs_count=8&count_private=true&title_color=64B2FFFF&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000"/>
+	</td>
+</tr>
+<tr>
+	<td align="center" style="padding=0;width=50%;">
+		<img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=mario-sanz&hide_border=true&&border=000000&background=00000000&ring=63D8FF&sideNums=64B2FF&currStreakNum=1ADD65&fire=1ADD65&currStreakLabel=1ADD65&stroke=0AA3FF00&sideLabels=64B2FF&dates=9f9f9f" />
+	</td>
+</tr>
+</table>
 
 - 🌱 I’m currently learning **Automation with Python**
 - 💬 Ask me anything on my **[issues page]**
@@ -36,29 +54,15 @@
 </p>
 
 <h3 align="left">Projects and Dev Stuff:</h3>
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=mario-sanz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=vue-dark&hide=none" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mario-sanz&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=vue-dark&count_private=true"/>
-</details>
-
-<details>	
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=mario-sanz&hide_border=true&theme=vue-dark" />
-</details>
 
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	  <li><b>OS:</b> Kubuntu 20.04</li>
+  	  <li><b>OS:</b> Ubuntu 20.04</li>
 	    <li><b>Laptop: </b> HP Laptop (Ryzen 5)</li>
   	  <li><b>Browser: </b> Firefox Web Browser</li>
-	    <li><b>Terminal: </b> Konsole (default in KDE)</li>
+	    <li><b>Terminal: </b> GNOME Terminal (default in GNOME)</li>
 	    <li><b>Code Editor:</b> VS Code, Sublime Text, IntelliJ.</li>
 	    <br />
 	</ul>	
