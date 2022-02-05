@@ -3,7 +3,8 @@
 <h3 align="center">A Computer Science Engineering student at UCM</h3>
 <br />
 
-<img align="right" height="250" width="375" alt="" src="https://github.com/mario-sanz/mario-sanz/blob/main/gifs/coder.gif" />
+<!--img align="right" height="250" width="375" alt="" src="https://github.com/mario-sanz/mario-sanz/blob/main/gifs/coder.gif" /-->
+<img style="width: 40%; height: auto; " align="right" alt="" src="https://github.com/mario-sanz/mario-sanz/blob/main/gifs/coding.gif" />
 
 - 🌱 I’m currently learning **Automation with Python**
 - 💬 Ask me anything on my **[issues page]**
