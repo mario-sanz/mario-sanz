@@ -14,7 +14,7 @@
 </tr>
 <tr>
 	<td align="center" style="padding=0;width=50%;">
-		<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mario-sanz&show_icons=true&layout=compact&langs_count=8&count_private=true&langs_count=8&title_color=64B2FFFF&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000"/>
+		<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mario-sanz&show_icons=true&layout=compact&langs_count=8&count_private=true&langs_count=6&hide=starlark&title_color=64B2FFFF&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000"/>
 	</td>
 </tr>
 <tr>
