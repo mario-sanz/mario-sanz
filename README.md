@@ -59,17 +59,17 @@
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	  <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> HP Laptop (Ryzen 5)</li>
-  	  <li><b>Browser: </b> Firefox Web Browser</li>
-	    <li><b>Terminal: </b> GNOME Terminal (default in GNOME)</li>
-	    <li><b>Code Editor:</b> VS Code, Sublime Text, IntelliJ.</li>
+  	  <li><b>OS:</b> Ubuntu 20.04 / macOS Monterey </li>
+	    <li><b>Laptop: </b> HP Laptop (Ryzen 5) / MacBook Pro 13' </li>
+  	  <li><b>Browser: </b> Firefox / Safari </li>
+	    <li><b>Terminal: </b> GNOME Terminal / Apple Terminal</li>
+	    <li><b>Code Editor:</b> VS Code / Xcode </li>
 	    <br />
 	</ul>	
 </details>
 
 <br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mario-sanz&label=Profile%20views&color=00BB6D&style=flat" alt="mario-sanz" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mario-sanz&label=Profile%20views&color=00BB6D&style=flat" alt="mario-sanz" /> </p> -->
 
 <!-- links -->
 [issues page]: https://github.com/mario-sanz/mario-sanz/issues "mario-sanz/issues"
