@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/mario-sanz/mario-sanz/blob/main/gifs/hellogithub.gif"/></p>
 <h1 align="center">Hi 👋, I'm Mario Sanz</h1>
-<h3 align="center">A Computer Science Engineering student at UCM</h3>
+<h3 align="center">A Computer Science Engineering student at UCM and <br /> iOS software engineer at Nomasystems</h3>
 <br />
 
 <!--img align="right" height="250" width="375" alt="" src="https://github.com/mario-sanz/mario-sanz/blob/main/gifs/coder.gif" /-->
