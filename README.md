@@ -60,7 +60,7 @@
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	  <li><b>OS:</b> Ubuntu 20.04 / macOS Monterey </li>
-	    <li><b>Laptop: </b> HP Laptop (Ryzen 5) / MacBook Pro 13' </li>
+	    <li><b>Laptop: </b> HP Laptop (Ryzen 5) / MacBook Pro 13" </li>
   	  <li><b>Browser: </b> Firefox / Safari </li>
 	    <li><b>Terminal: </b> GNOME Terminal / Apple Terminal</li>
 	    <li><b>Code Editor:</b> VS Code / Xcode </li>
