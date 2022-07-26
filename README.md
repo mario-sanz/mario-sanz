@@ -61,7 +61,7 @@
   	  <li><b>OS:</b> Ubuntu 22.04 / macOS Monterey </li>
 	    <li><b>Laptop: </b> HP Laptop (Ryzen 5) / MacBook Pro 13" </li>
   	  <li><b>Browser: </b> Firefox / Safari </li>
-	    <li><b>Terminal: </b> GNOME Terminal / Apple Terminal</li>
+	    <li><b>Terminal: </b> GNOME Terminal / iTerm2</li>
 	    <li><b>Code Editor:</b> VS Code / Xcode </li>
 	    <br />
 	</ul>	
