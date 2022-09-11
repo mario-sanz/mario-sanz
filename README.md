@@ -24,7 +24,7 @@
 </tr>
 </table>
 
-- 🌱 I’m currently learning **iOS app development**
+- 🌱 I’m currently learning **iOS app development** and **Machine Learning**
 - 💬 Ask me anything on my **[issues page]**
 - 📫 How to reach me: **sanzguerreromario@gmail.com**
 
