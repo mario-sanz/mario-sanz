@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/mario-sanz/mario-sanz/blob/main/gifs/hellogithub.gif"/></p>
 <h1 align="center">Hi 👋, I'm Mario Sanz</h1>
-<h3 align="center">A Computer Science Engineering student at UCM and <br /> iOS software engineer at Nomasystems</h3>
+<h3 align="center">A Computer Scientist and software engineer, passionate<br />about AI, Data Science and Machine Learning</h3>
 <br />
 
 <!--img align="right" height="250" width="375" alt="" src="https://github.com/mario-sanz/mario-sanz/blob/main/gifs/coder.gif" /-->
@@ -9,12 +9,12 @@
 <table align="right">
 <tr>
 	<td align="center" style="padding=0;width=50%;">
-		<img height="140em" src="https://github-readme-stats.vercel.app/api?username=mario-sanz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide=none&title_color=64B2FFFF&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000" />
+		<img height="140em" src="https://github-readme-stats.vercel.app/api?username=mario-sanz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=none&title_color=64B2FFFF&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000" />
 	</td>
 </tr>
 <tr>
 	<td align="center" style="padding=0;width=50%;">
-		<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mario-sanz&show_icons=true&layout=compact&langs_count=8&count_private=true&langs_count=6&hide=starlark&title_color=64B2FFFF&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000"/>
+		<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mario-sanz&show_icons=true&layout=compact&count_private=true&langs_count=6&hide=starlark&title_color=64B2FFFF&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000"/>
 	</td>
 </tr>
 <tr>
@@ -24,17 +24,24 @@
 </tr>
 </table>
 
-- 🌱 I’m currently learning **iOS app development** and **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning** and **Data Science**
 - 💬 Ask me anything on my **[issues page]**
 - 📫 How to reach me: **sanzguerreromario@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+	<a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+</p>
+
+<p align="left">
+  <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-plain-wordmark.svg" alt="pytorch" width="40" height="40"/> </a>
 </p>
 
 <p align="left">
